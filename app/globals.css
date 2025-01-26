@@ -415,3 +415,19 @@
 .PhoneInputInput::placeholder {
   color: #1a1d21;
 }
+.PhoneInputCountrySelect {
+  background-color: #1a1d21;
+}
+.PhoneInputCountrySelect::-webkit-scrollbar {
+  background-color: #1a1d21;
+}
+.PhoneInputCountrySelect::-webkit-scrollbar-thumb {
+  background-color: #b2b2b2;
+  color: #abb8c4;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.PhoneInputCountrySelect::-webkit-scrollbar-track {
+  background-color: #2d2d2d;
+  color: #abb8c4;
+}
